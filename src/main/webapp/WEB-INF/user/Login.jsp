@@ -1,8 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR" pageEncoding="EUC-KR"%>
-<h1 id="title">·Î±×ÀÎ/È¸¿ø°¡ÀÔ</h1>
+<h1 id="title">ï¿½Î±ï¿½ï¿½ï¿½/È¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</h1>
 <div class="login_Box">
   <div id="kakao">
-    <a href=""><img alt="Ä«Ä«¿À" src="../image/kakao_login_medium_wide.png" /></a>
+    <a href=""><img alt="Ä«Ä«ï¿½ï¿½" src="../image/kakao_login_medium_wide.png" /></a>
   </div>
   <div id="ngf">
     <a href=""><img alt="naver" src="../image/naver_icon2.png" width="40px" height="40px" /></a>
@@ -10,15 +10,15 @@
     <a href=""><img alt="naver" src="../image/facebook2-icon-file.png" width="40px" height="40px" /></a>
   </div>
   <div id="login_inp">
-    <input type="text" title="¾ÆÀÌµð" placeholder="¾ÆÀÌµð" />
-    <input type="password" title="ºñ¹Ð¹øÈ£" placeholder="ºñ¹Ð¹øÈ£" />
+    <input type="text" title="ï¿½ï¿½ï¿½Ìµï¿½" placeholder="ï¿½ï¿½ï¿½Ìµï¿½" />
+    <input type="password" title="ï¿½ï¿½Ð¹ï¿½È£" placeholder="ï¿½ï¿½Ð¹ï¿½È£" />
   </div>
   <!-- TESTS -->
-  <div id="check"><input type="checkbox" />·Î±×ÀÎ »óÅÂ À¯Áö</div>
+  <div id="check"><input type="checkbox" />ï¿½Î±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½</div>
   <div id="login_btn">
-    <button class="log_but" onclick="">·Î±×ÀÎ</button>
+    <button class="log_but" onclick="">ï¿½Î±ï¿½ï¿½ï¿½</button>
   </div>
   <div>
-    <p><a href="">¾ÆÀÌµð/ºñ¹Ð¹øÈ£ Ã£±â</a>&nbsp; <a href="/user/sign-up">È¸¿ø°¡ÀÔ</a></p>
+    <p><a href="">ï¿½ï¿½ï¿½Ìµï¿½/ï¿½ï¿½Ð¹ï¿½È£ Ã£ï¿½ï¿½</a>&nbsp; <a href="/user/sign-up">È¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</a></p>
   </div>
 </div>
