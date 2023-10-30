@@ -14,7 +14,7 @@
     <input type="password" title="비밀번호" placeholder="비밀번호" />
   </div>
   <!-- TESTS -->
-  <div id="check"><input type="checkbox" />로그인 상태 유지</div>
+  <div id="check"><input type="checkbox" />로그인 상태 유지 1234</div>
   <div id="login_btn">
     <button class="log_but" onclick="">로그인</button>
   </div>
