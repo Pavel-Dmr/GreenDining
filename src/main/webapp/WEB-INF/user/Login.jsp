@@ -10,7 +10,6 @@
     <a href=""><img alt="naver" src="../image/facebook2-icon-file.png" width="40px" height="40px" /></a>
   </div>
   <div id="login_inp">
-    <input type="text" title="아이디" placeholder="아이디" />
     <input type="password" title="비밀번호" placeholder="비밀번호" />
   </div>
   <!-- TESTS -->
