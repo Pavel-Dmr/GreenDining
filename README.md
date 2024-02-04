@@ -35,10 +35,10 @@
 | Tool | GitHub GitKraken Intellij IDEA Visual Studio Code Eclipse |
 
 ### 프로젝트 구조
-![GreenDining (1)](https://github.com/Pavel-Dmr/GreenDining/assets/104084926/01221799-58a6-4df8-a636-a4ced75d02b3)
+![그린다이닝_아키텍쳐](https://github.com/Pavel-Dmr/GreenDining/assets/104084926/6009ccf0-5c49-4deb-80b6-855aa1c2656b)
 
 ### DB 관계도
-![그린다이닝_아키텍쳐](https://github.com/Pavel-Dmr/GreenDining/assets/104084926/6009ccf0-5c49-4deb-80b6-855aa1c2656b)
+![GreenDining (1)](https://github.com/Pavel-Dmr/GreenDining/assets/104084926/01221799-58a6-4df8-a636-a4ced75d02b3)
 
 
 ## 프로젝트 구현 기능
