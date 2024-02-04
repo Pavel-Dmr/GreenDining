@@ -36,11 +36,11 @@
 
 ### 프로젝트 구조
 
-![그린다이닝_아키텍쳐.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a281f0f1-8fe0-4c6c-aa62-9f38b4b4811a/7e59918b-a791-468b-ae86-474f99401570/%EA%B7%B8%EB%A6%B0%EB%8B%A4%EC%9D%B4%EB%8B%9D_%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.jpg)
+![그린다이닝_아키텍쳐.jpg]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a281f0f1-8fe0-4c6c-aa62-9f38b4b4811a/7e59918b-a791-468b-ae86-474f99401570/%EA%B7%B8%EB%A6%B0%EB%8B%A4%EC%9D%B4%EB%8B%9D_%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.jpg](https://file.notion.so/f/f/a281f0f1-8fe0-4c6c-aa62-9f38b4b4811a/7e59918b-a791-468b-ae86-474f99401570/%EA%B7%B8%EB%A6%B0%EB%8B%A4%EC%9D%B4%EB%8B%9D_%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.jpg?id=15252167-4c2d-4622-8332-7b7047d44c59&table=block&spaceId=a281f0f1-8fe0-4c6c-aa62-9f38b4b4811a&expirationTimestamp=1707156000000&signature=Au920p-UDrUSC0joyVP_mF_sapnzQAHirC446BBDo-M&downloadName=%EA%B7%B8%EB%A6%B0%EB%8B%A4%EC%9D%B4%EB%8B%9D_%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.jpg))
 
 ### DB 관계도
 
-![GreenDining (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a281f0f1-8fe0-4c6c-aa62-9f38b4b4811a/6af084a1-8391-48a9-a2bc-9a1a71f02cb2/GreenDining_(1).png)
+![GreenDining (1).png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a281f0f1-8fe0-4c6c-aa62-9f38b4b4811a/6af084a1-8391-48a9-a2bc-9a1a71f02cb2/GreenDining_(1).png](https://file.notion.so/f/f/a281f0f1-8fe0-4c6c-aa62-9f38b4b4811a/6af084a1-8391-48a9-a2bc-9a1a71f02cb2/GreenDining_(1).png?id=0975bb1a-8eea-4ec2-9560-544bfb498b56&table=block&spaceId=a281f0f1-8fe0-4c6c-aa62-9f38b4b4811a&expirationTimestamp=1707156000000&signature=xEnFDZWhD_xBCUCAdLQeguc77OKGlDBjGRoFOmUpJqM&downloadName=GreenDining+%281%29.png))
 
 ## 프로젝트 구현 기능
 
